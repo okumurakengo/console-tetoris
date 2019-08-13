@@ -16,10 +16,27 @@
 
 ### 🏠 [Homepage](https://okumurakengo.github.io/console-tetoris/)
 
+https://okumurakengo.github.io/console-tetoris/
+
+![JavaScriptコンソールで遊べるテトリス](image.png)
+
 ## Install
 
 ```sh
-npm install
+yarn add console-tetoris
+```
+
+## Usege
+
+```js
+import "console-tetoris"
+```
+
+or
+
+
+```html
+<script src="https://unpkg.com/console-tetoris/dist/main.js"></script>
 ```
 
 ## Author

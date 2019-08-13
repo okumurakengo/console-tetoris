@@ -7,7 +7,7 @@ import {
     deleteRow,
     render,
 } from "./lib";
-import { TRow, TBoard, Moves } from "./global";
+import { TBoard, Moves } from "./global";
 
 let board: TBoard = initBoard();
 let currentPositions: [number, number][][];
