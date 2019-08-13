@@ -25,7 +25,7 @@ export function render(board: TBoard): void {
     const draw = [
         `+${"--".repeat(MAX_X)}+`,
         board.map((row: TRow, i: number) => {
-            styles.push(...[...row.map(getStyles), ""]);
+            styles.push(...row.map(getStyles), "");
             return `|${"%c .".repeat(MAX_X)}%c|`;
         }).join("\n"),
         `+${"--".repeat(MAX_X)}+`,
