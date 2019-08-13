@@ -16,6 +16,10 @@
 
 ### 🏠 [Homepage](https://okumurakengo.github.io/console-tetoris/)
 
+https://okumurakengo.github.io/console-tetoris/
+
+![JavaScriptコンソールで遊べるテトリス](image.png)
+
 ## Install
 
 ```sh
