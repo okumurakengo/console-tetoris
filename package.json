@@ -1,0 +1,30 @@
+{
+  "name": "console-tetoris",
+  "version": "1.0.0",
+  "description": "JavaScriptコンソールで遊べるテトリス",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "homepage": "https://github.com/okumurakengo/console-tetoris#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okumurakengo/console-tetoris"
+  },
+  "author": "okumurakengo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okumurakengo/console-tetoris"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.136",
+    "@types/webpack": "^4.32.1",
+    "gh-pages": "^2.1.1",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
