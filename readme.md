@@ -22,6 +22,19 @@
 npm install
 ```
 
+## Usege
+
+```js
+import "console-tetoris"
+```
+
+or
+
+
+```html
+<script src="https://unpkg.com/console-tetoris/dist/main.js"></script>
+```
+
 ## Author
 
 👤 **okumurakengo**
