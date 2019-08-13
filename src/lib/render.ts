@@ -3,7 +3,7 @@ import { MAX_X, TRow, TBoard, Colors } from "../global";
 function getStyles(color: Colors): string {
     switch (color) {
         case Colors.GREEN:
-            return "color: green; background: green; margin: 1;";
+            return "color: green; background: green;";
         case Colors.BLUE:
             return "color: blue; background: blue;";
         case Colors.RED:
