@@ -1,5 +1,5 @@
 import { cloneDeep, range, remove } from "lodash";
-import { MAX_Y, MAX_X, TRow, TBoard, IBoardState, Colors, Moves } from "../global";
+import { MAX_Y, TRow, TBoard } from "../global";
 import { initRow } from "./initBoard";
 
 /**
