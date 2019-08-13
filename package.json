@@ -15,7 +15,13 @@
   "bugs": {
     "url": "https://github.com/okumurakengo/console-tetoris"
   },
+  "main": "dist/main.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
+    "build": "webpack",
+    "prepublishOnly": "yarn build",
     "deploy": "gh-pages -d ./"
   },
   "devDependencies": {
