@@ -14,7 +14,7 @@
 
 > JavaScriptコンソールで遊べるテトリス
 
-### 🏠 [Homepage](https://github.com/okumurakengo/console-tetoris#readme)
+### 🏠 [Homepage](https://okumurakengo.github.io/console-tetoris/)
 
 ## Install
 
