@@ -23,7 +23,7 @@ https://okumurakengo.github.io/console-tetoris/
 ## Install
 
 ```sh
-npm install
+yarn add console-tetoris
 ```
 
 ## Usege
