@@ -26,7 +26,7 @@ https://okumurakengo.github.io/console-tetoris/
 yarn add console-tetoris
 ```
 
-## Usege
+## Usage
 
 ```js
 import "console-tetoris"
